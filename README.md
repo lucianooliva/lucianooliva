@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Clean Archictecture**
 
-- 💬 Ask me about **AngularJS, NodeJS, Javascript, Typescript, PHP, MySQL**
+- 💬 Ask me about **PHP, Laravel, Vue JS, Javascript, AngularJS, NodeJS, MySQL**
 
 - 📫 How to reach me **lucianooliva11@gmail.com**
 
