@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luciano Oliva</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **Clean Archictecture**
-
-- 💬 Ask me about **PHP, Laravel, Vue JS, Javascript, AngularJS, NodeJS, MySQL**
+- 💬 Ask me about **PHP, Laravel, Vue JS, Javascript, AngularJS, NodeJS, MySQL, Docker, Linux**
 
 - 📫 How to reach me **lucianooliva11@gmail.com**
 
